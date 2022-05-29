@@ -5,6 +5,7 @@ A Next.js starter kit template with Next.js 11 + React 17 + Typescript + Web3-re
 
 Other tools included: Tailwind CSS 2, Autoprefixer, Sass, PostCSS, ESLint, Prettier.
 
+
 ## Getting Started
 
 ```bash
